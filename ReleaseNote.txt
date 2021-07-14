@@ -1,0 +1,58 @@
+#begin bao.pham - 17/05/2021: insert film
+---------------------------
+ - Tên Phim: Biệt Đội Siêu Anh Hùng 2: Đế Chế Ultron
+ - nội dung: Trong phần 2 này, khán giả chắc chắn sẽ bất ngờ khi chứng kiến 'Iron Man’ Tony Stark (Robert Downey Jr.) sẽ trở thành “kẻ xấu”. Thực ra, vai phản diện thực sự của phim chính là một con robot mang tên Ultron do Tony chế tạo. Mệt mỏi vì công việc của một nhà sáng chế, doanh nhân và cả trách nhiệm của một siêu anh hùng, anh đã quyết định tạo ra Ultron để thay mình bảo vệ thế giới. Nhưng ý tưởng đã thất bại, Ultron trở nên mất kiểm soát và biến thành một cỗ máy sát nhân máu lạnh. Khi hòa bình lại bị đe dọa, đó cũng là lúc biệt đội Avengers phải trở lại và ra tay.
+ - DateShow: 13/04/2015
+ - thời lượng: 141 phút
+--------------------------
+ - Tên Phim: Thanh Gươm Diệt Quỷ: Chuyến Tàu Vô Tận
+ - nội dung: Kamado Tanjiro cùng quân đoàn Diệt quỷ đi cùng với Viêm trụ Rengoku Kyōjurō để điều tra những vụ mất tích đầy bí ẩn xay ra trên một chuyến tàu. Tuy nhiên, họ không biết rằng tại đây có một cái bẫy đang chờ đón họ. Liệu kết cục sẽ như thế nào?
+ - DateShow: 16/10/2020
+ - thời lượng: 117 Phút
+--------------------------
+ - Tên Phim: Gia Đình Addams
+ - nội dung: Hãy sẵn sàng để búng ngón tay của bạn! Gia đình Addams trở lại màn ảnh rộng trong bộ phim hoạt hình hài hước đầu tiên về gia đình đáng sợ nhất trong lịch sử. Hài hước, kỳ quặc và hoàn toàn độc nhất vô nhị, Gia đình Addams sẽ xác định lại ý nghĩa của việc trở thành một người hàng xóm tốt.
+ - DateShow: 25/10/2019
+ - thời lượng: 95 Phút
+--------------------------
+ - Tên Phim: Trí Lực Siêu Phàm
+ - nội dung: Trí Lực Siêu Phàm diễn ra trong một tương lai không xa, khi một trận đại dịch bí ẩn đã cướp đi sinh mạng của 98% trẻ em trên toàn nước Mỹ. 2% sống sót bắt đầu bộc lộ những siêu năng lực phi thường, và trở thành mối đe dọa đối với chính phủ. Họ quyết định tập trung bọn trẻ vào một doanh trại quân sự, với mục đích kiểm soát và diệt trừ mầm mống tai ương nếu cần. Chuyện phim xoay quanh Ruby, một cô bé 16 tuổi mang trong mình khả năng điều khiển vật chất. Cùng với nhiều người bạn đồng trang lứa khác gồm Liam, Chubs và Zu, cô đã trốn chạy khỏi trại tập trung, đi tìm một mái nhà mới giữa một xã hội đầy thù địch.
+ - DateShow: 01/08/2018
+ - thời lượng: 104 Phút
+--------------------------
+ - Tên Phim: Thợ Săn Quái Vật 2020
+ - nội dung: Khi Lt. Artemis và những người lính trung thành của cô được đưa đến một thế giới mới, họ tham gia vào một cuộc chiến tuyệt vọng để sinh tồn chống lại những kẻ thù khổng lồ với sức mạnh đáng kinh ngạc. Phim truyện dựa trên trò chơi điện tử của Capcom.
+ - DateShow: 03/12/2020
+ - thời lượng: 99 Phút
+--------------------------
+ - Tên Phim: Người Về Từ Cõi Chết 2015
+ - nội dung: The Revenant dựa trên câu chuyện có thật, phim kể về người thợ săn Hugh Glass (Leonardo Dicaprio thủ vai). Sau một trận chiến đẫm máu với những người Mỹ bản địa, Hugh bị thương và bị đồng đội tàn nhẫn bỏ lại trong khu núi tuyết giá rét. Từ đó, Hugh Glass phải làm tất cả mọi thứ để có thể tồn tại giữa cái lạnh tàn bạo, những động vật ăn thịt và chiến tranh với những bộ lạc nơi vùng núi hoang vu. Nhờ ý chí kiên cường, người thợ săn đã sống sót một cách kỳ diệu, một mình băng qua quãng đường dài hơn 3.000 dặm (4.828 km) để trở về và trả thù được John Fitzgerald (Tom Hardy thủ vai) – kẻ từng là bạn của mình năm xưa. Điều đặc biệt là bộ phim này quay tại một địa điểm ngoài trời vô cùng hoang vu hẻo lánh, chưa ai đặt chân tới, và chỉ sử dụng ánh sáng tự nhiên.
+ - DateShow: 25/12/2015
+ - thời lượng: 151 Phút
+--------------------------
+ - Tên Phim: Siêu Điệp Viên 4: Người Thừa Kế Bourne
+ - nội dung: Khi tổ chức gián điệp ngầm thử nghiệm một chương trình đặc biệt dành cho các đặc vụ, Aaron trở thành một thử nghiệm đáng giá. Và cũng từ đây, anh đã bước vào một cuộc chiến không thể quay đầu lại.
+ - DateShow: 30/07/2012
+ - thời lượng: 135 Phút
+--------------------------
+ - Tên Phim: Đại Chiến Hai Thế Giới
+ - nội dung: Bộ phim xoay quanh cuộc chiến đẫm máu để giành lấy một cuộc sống tốt đẹp hơn giữa hai bộ tộc ở hai thế giới khác nhau. Khi mà vùng đất Draenor, quê hương của tộc người Orc phải đối mặt với nguồn tài nguyên đang dần cạn kiệt, không còn là nơi cư trú an toàn nữa. Họ đã lên kế hoạch tấn công loài người để chiếm lấy một nơi ở mới tốt hơn. Loài người cũng không ngồi yên chịu trận, bắt tay chuẩn bị cuộc phản kích. Để từ đó, cuộc chiến một mất một còn xảy ra dưới sự dẫn đầu của hai thủ lĩnh. Trận chiến nổ ra không chỉ mang lại góc nhìn về sự hận thù, mà còn là tình yêu thương, oán hờn hay lòng đoàn kết trong nội bộ.
+ - DateShow: 10/06/2016
+ - thời lượng: 123 Phút
+-----------Đại Chiến Hai Thế Giới---------------
+ - Tên Phim: 
+ - nội dung: 
+ - DateShow: 
+ - thời lượng: 
+--------------------------
+ - Tên Phim: 
+ - nội dung: 
+ - DateShow: 
+ - thời lượng: 
+--------------------------
+ - Tên Phim: 
+ - nội dung: 
+ - DateShow: 
+ - thời lượng: 
+--------------------------
+#end

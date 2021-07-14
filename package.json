@@ -1,0 +1,41 @@
+{
+  "name": "flixgo-online-movies-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "await": "^0.2.6",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "buffer": "^6.0.3",
+    "connect-redis": "^5.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "express-fileupload": "^1.2.1",
+    "express-promise-router": "^4.1.0",
+    "express-session": "^1.17.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.0.0",
+    "gulp-install": "^1.1.0",
+    "jade": "^1.11.0",
+    "mime": "^2.5.2",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.6.2",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "pug": "^3.0.2",
+    "redis": "^3.1.2",
+    "redis-url-parse": "^2.0.0",
+    "sequelize": "^6.6.2",
+    "session-file-store": "^1.5.0",
+    "url": "^0.11.0"
+  }
+}
